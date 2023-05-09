@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+졸) 웅지세무대학
+현) 성남폴리텍대학 인공지능소프트웨어 하이테크과정
+
 <!--
 **juyub/juyub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
