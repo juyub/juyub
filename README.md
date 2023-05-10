@@ -5,7 +5,7 @@
 
 
 <a href="https://helpful-budget-5ec.notion.site/6281a7bdbc704edfb1dfb05dd78ddb2c
-" target="_blank">notion</a>
+" target="a">notion</a>
 
 
 
