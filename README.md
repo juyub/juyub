@@ -6,8 +6,6 @@
 <br>
 <a href="https://helpful-budget-5ec.notion.site/6281a7bdbc704edfb1dfb05dd78ddb2c" target="blank">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)</a>
 
-<a href="https://helpful-budget-5ec.notion.site/6281a7bdbc704edfb1dfb05dd78ddb2c" target="blank">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)</a>
-
 
 
 
