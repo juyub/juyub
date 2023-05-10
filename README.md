@@ -2,8 +2,8 @@
 
 졸) 웅지세무대학 <br>
 현) 성남폴리텍대학 인공지능소프트웨어 하이테크과정
-
-
+<br>
+<br>
 <a href="https://helpful-budget-5ec.notion.site/6281a7bdbc704edfb1dfb05dd78ddb2c" target="_blank">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)</a>
 
 
