@@ -4,9 +4,9 @@
 현) 성남폴리텍대학 인공지능소프트웨어 하이테크과정
 
 
+<a href="https://helpful-budget-5ec.notion.site/6281a7bdbc704edfb1dfb05dd78ddb2c" target="_blank">
+
 <a href="https://helpful-budget-5ec.notion.site/6281a7bdbc704edfb1dfb05dd78ddb2c" target="_blank">notion</a>
-
-
 
 
 
