@@ -6,7 +6,7 @@
 
 <hr>
 
-<프로젝트>
+<프로젝트> <br>
 <a href="https://github.com/juyub/web-basic">HTML 마리오게임</a>
 
 <hr>
