@@ -9,6 +9,7 @@
 <프로젝트> <br>
 <a href="https://github.com/juyub/web-basic">[HTML] 마리오게임</a> <br>
 <a href="https://github.com/juyub/JooBank/tree/main">[JSP] OpenBank 시스템</a> <br>
+<a href="https://github.com/juyub/JooLib/tree/main">[JSP] 도서관리사이트</a> <br>
 <a href="https://github.com/juyub/movieInfo">[API] 영화정보</a>
 <hr>
 
