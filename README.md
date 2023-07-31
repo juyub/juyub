@@ -21,13 +21,7 @@
 
 
 <!--
-<프로젝트>
-
-
-
 <a href="https://juyub.github.io/web-basic/Mario/mario.html" target="blank">마리오게임</a>
-
-
 
 <!--
 **juyub/juyub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
