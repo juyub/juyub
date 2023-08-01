@@ -8,10 +8,10 @@
 
 <프로젝트> <br>
 <a href="https://github.com/juyub/JooBank/tree/main">[JSP] OpenBank 시스템</a> <br>
-<a href="https://github.com/juyub/JooLib/tree/main">[JSP] 도서관리사이트</a> <br>
-<a href="https://github.com/juyub/BookM_TTT">[JAVA] 도서관리프로그램</a> <br>
-<a href="https://github.com/juyub/web-basic">[HTML] 마리오게임</a> <br>
-<a href="https://github.com/juyub/movieInfo">[API] 영화정보</a>
+<a href="https://github.com/juyub/JooLib/tree/main">[JSP] 도서 관리 웹페이지</a> <br>
+<a href="https://github.com/juyub/BookM_TTT">[JAVA] 도서 관리 프로그램</a> <br>
+<a href="https://github.com/juyub/web-basic">[HTML] 마리오 게임</a> <br>
+<a href="https://github.com/juyub/movieInfo">[API] 영화 정보</a>
 <hr>
 
 <a href="https://helpful-budget-5ec.notion.site/6281a7bdbc704edfb1dfb05dd78ddb2c" target="blank">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)</a>
