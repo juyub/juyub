@@ -7,6 +7,7 @@
 <hr>
 
 <프로젝트> <br>
+<a href="https://github.com/juyub/JooBoard">[Spring] 게시판</a> <br>
 <a href="https://github.com/juyub/JooBank/tree/main">[JSP] OpenBank 시스템</a> <br>
 <a href="https://github.com/juyub/JooLib/tree/main">[JSP] 도서 관리 웹페이지</a> <br>
 <a href="https://github.com/juyub/BookM_TTT">[JAVA] 도서 관리 프로그램</a> <br>
