@@ -20,6 +20,9 @@
 <a href="https://github.com/juyub/tp-JooLibT">[JSP] 도서 관리</a> <br>
  도서관리 + 답변형 게시판 + [API] 영화 정보 관리 <br>
 
+<한이음 프로젝트><br>
+<a href="https://github.com/juyub/jy_hanium">한이음</a>
+
 <hr>
 
 <a href="https://helpful-budget-5ec.notion.site/6281a7bdbc704edfb1dfb05dd78ddb2c" target="blank">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)</a>
