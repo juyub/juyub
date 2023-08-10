@@ -16,9 +16,9 @@
 
 <통합 프로젝트> <br>
 <a href="https://github.com/juyub/tp-JooBank">은행 관리</a> <br>
-- 은행관리 + 답변형 게시판 + 금융뉴스 관리 + 쉬어가기 페이지(게임 연동) <br>
+ 은행관리 + 답변형 게시판 + 금융뉴스 관리 + 쉬어가기 페이지(게임 연동) <br>
 <a href="https://github.com/juyub/tp-JooLibT">도서 관리</a> <br>
-- 도서관리 + 답변형 게시판 + 영화 정보 관리 <br>
+ 도서관리 + 답변형 게시판 + 영화 정보 관리 <br>
 <hr>
 
 <a href="https://helpful-budget-5ec.notion.site/6281a7bdbc704edfb1dfb05dd78ddb2c" target="blank">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)</a>
