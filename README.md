@@ -15,9 +15,9 @@
 <a href="https://github.com/juyub/movieInfo">[API] 영화 정보</a>
 
 <통합 프로젝트> <br>
-- <a href="https://github.com/juyub/tp-JooBank">은행 관리</a> <br>
- 은행관리 + 답변형 게시판 + 금융뉴스 관리 + 쉬어가기 페이지(게임 연동) <br>
-- <a href="https://github.com/juyub/tp-JooLibT">도서 관리</a> <br>
+- <a href="https://github.com/juyub/tp-JooBank">[JSP] 은행 관리</a> <br>
+ 은행관리 + 답변형 게시판 + [Spring+API]금융뉴스 관리 + [HTML]쉬어가기 페이지(게임 연동) <br>
+- <a href="https://github.com/juyub/tp-JooLibT">[JSP] 도서 관리</a> <br>
  도서관리 + 답변형 게시판 + 영화 정보 관리 <br>
 <hr>
 
