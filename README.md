@@ -6,22 +6,22 @@
 
 <hr>
 
-<프로젝트> <br>
-<a href="https://github.com/juyub/JooBoard">[Spring] 게시판</a> <br>
-<a href="https://github.com/juyub/JooBank">[JSP] OpenBank 시스템</a> <br>
-<a href="https://github.com/juyub/JooLib">[JSP] 도서 관리 웹페이지</a> <br>
-<a href="https://github.com/juyub/BookM_TTT">[JAVA] 도서 관리 프로그램</a> <br>
-<a href="https://github.com/juyub/web-basic">[HTML] 마리오 게임</a> <br>
-<a href="https://github.com/juyub/movieInfo">[API] 영화 정보</a>
-
 <통합 프로젝트> <br>
-<a href="https://github.com/juyub/tp-JooBank">[JSP] 은행 관리</a> <br>
- 은행관리 + 답변형 게시판 + [Spring + API] 금융뉴스 + [HTML] 쉬어가기 페이지(게임 연동) <br>
-<a href="https://github.com/juyub/tp-JooLibT">[JSP] 도서 관리</a> <br>
- 도서관리 + 답변형 게시판 + [API] 영화 정보 관리 <br>
+<a href="https://github.com/juyub/tp-JooBank">OpenBank 은행 시스템</a> <br>
+ 은행관리 + 답변형 게시판 + 금융뉴스 + 쉬어가기 페이지(게임 연동) <br>
+<a href="https://github.com/juyub/tp-JooLibT">도서 관리 서비스</a> <br>
+ 도서관리 + 답변형 게시판 + 영화 정보 관리 <br>
 
 <한이음 프로젝트><br>
 <a href="https://github.com/juyub/jy_hanium">한이음</a>
+
+<프로젝트> <br>
+<a href="https://github.com/juyub/JooBoard">게시판</a> <br>
+<a href="https://github.com/juyub/JooBank">OpenBank 시스템</a> <br>
+<a href="https://github.com/juyub/JooLib">도서 관리 서비스</a> <br>
+<a href="https://github.com/juyub/BookM_TTT">도서 관리 프로그램</a> <br>
+<a href="https://github.com/juyub/web-basic">마리오 게임</a> <br>
+<a href="https://github.com/juyub/movieInfo">영화 정보</a>
 
 <hr>
 
