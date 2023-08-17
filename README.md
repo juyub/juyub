@@ -6,7 +6,8 @@
 
 <hr>
 
-<img src="https://github.com/juyub/juyub/assets/126839881/79788b8c-d758-4996-9878-2c030360474b" width="600"/> 
+<보유 기술> <br>
+<img src="https://github.com/juyub/juyub/assets/126839881/9c0f935e-1a59-4f05-8833-2416c99fbea5" /> <br>
 
 <통합 프로젝트> <br>
 <a href="https://github.com/juyub/tp-JooBank">OpenBank 은행 시스템</a> <br>
