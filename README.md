@@ -4,7 +4,7 @@
 
 현) 성남폴리텍대학 인공지능소프트웨어 하이테크과정
 
-email : jjuyub@gmail.com
+Email : jjuyub@gmail.com
 
 <hr>
 
