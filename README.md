@@ -12,10 +12,10 @@ Email : jjuyub@gmail.com
 <img src="https://github.com/juyub/juyub/assets/126839881/9c0f935e-1a59-4f05-8833-2416c99fbea5" /> <br>
 
 <통합 프로젝트> <br>
-<a href="https://github.com/juyub/tp-JooBank">OpenBank 은행 시스템</a> <br>
- 은행관리 + 답변형 게시판 + 금융뉴스 + 쉬어가기 페이지(게임 연동) <br>
 <a href="https://github.com/juyub/sp_JooLib">도서 관리 서비스</a> <br>
  도서관리 + 답변형 게시판 + 영화 정보 관리 <br>
+<a href="https://github.com/juyub/tp-JooBank">OpenBank 은행 시스템</a> <br>
+ 은행관리 + 답변형 게시판 + 금융뉴스 + 쉬어가기 페이지(게임 연동) <br>
 
 <한이음 프로젝트><br>
 <a href="https://github.com/juyub/jy_hanium">한이음</a>
