@@ -16,7 +16,15 @@ Email : jjuyub@gmail.com
  은행관리 + 답변형 게시판 + 금융뉴스 + 쉬어가기 페이지(게임 연동) <br>
 <a href="https://github.com/juyub/tp-JooLibT">도서 관리 서비스</a> <br>
  도서관리 + 답변형 게시판 + 영화 정보 관리 <br>
+ <!-- [![이미지 텍스트](스크린샷 이미지)](유투브링크) --!>
+ [![sp_JooLib](https://github.com/juyub/juyub/assets/126839881/57e514d7-ac1e-497f-a5fb-8039920a507c)](https://youtu.be/kXjXn7fin-g)
 
+<!-- <img width="990" alt="image" src="https://github.com/juyub/juyub/assets/126839881/57e514d7-ac1e-497f-a5fb-8039920a507c"> --!>
+
+
+<!-- https://youtu.be/kXjXn7fin-g --!>
+
+<br>
 <한이음 프로젝트><br>
 <a href="https://github.com/juyub/jy_hanium">한이음</a>
 
