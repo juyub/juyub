@@ -20,7 +20,7 @@ Email : jjuyub@gmail.com
 <한이음 프로젝트><br>
 <a href="https://github.com/juyub/jy_hanium">한이음</a>
 
-<프로젝트> <br>
+<개별 프로젝트> <br>
 <a href="https://github.com/juyub/JooBoard">게시판</a> <br>
 <a href="https://github.com/juyub/JooBank">OpenBank 시스템</a> <br>
 <a href="https://github.com/juyub/JooLib">도서 관리 서비스</a> <br>
