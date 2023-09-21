@@ -18,7 +18,7 @@ Email : jjuyub@gmail.com
  은행관리 + 답변형 게시판 + 금융뉴스(spring) + 쉬어가기 페이지(게임 연동) <br>
 
 <한이음 프로젝트><br>
-<a href="https://github.com/juyub/jy_hanium">[python] 한이음</a>
+<a href="https://github.com/juyub/jy_hanium">[python] cctv를 이용한 얼굴 및 사람인식</a>
 
 <개별 프로젝트> <br>
 <a href="https://github.com/juyub/JooBoard">[spring] 게시판</a> <br>
