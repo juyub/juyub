@@ -5,7 +5,7 @@
 현) 성남폴리텍대학 인공지능소프트웨어 하이테크과정
 
 Email : jjuyub@gmail.com <br>
-youtube : youtube.com/@juyub
+youtube : <a href="youtube.com/@juyub">youtube.com/@juyub</a>
 
 <hr>
 
