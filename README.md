@@ -10,7 +10,12 @@ youtube : <a href="https://youtube.com/@juyub">youtube.com/@juyub</a>
 <hr>
 
 <보유 기술> <br>
-<img src="https://github.com/juyub/juyub/assets/126839881/9c0f935e-1a59-4f05-8833-2416c99fbea5" /> <br>
+
+<img src="https://github.com/juyub/juyub/assets/126839881/c91a0ad8-f466-4019-9f01-1da06d646fee" />
+<!--
+<img src="https://github.com/juyub/juyub/assets/126839881/9c0f935e-1a59-4f05-8833-2416c99fbea5" /> 
+-->
+<br>
 
 <통합 프로젝트> <br>
 <a href="https://github.com/juyub/sp_JooLib">[spring] 도서 관리 서비스</a> <br>
