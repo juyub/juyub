@@ -8,7 +8,7 @@ Email : jjuyub@gmail.com <br>
 youtube : <a href="https://youtube.com/@juyub">youtube.com/@juyub</a>
 
 
-<a href="https://github.com/juyub/juyub/자기소개서 포트폴리오 - 이주엽v10.pdf">이력서</a> <br>
+<a href="https://github.com/juyub/juyub/blob/main/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EC%84%9C%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20-%20%EC%9D%B4%EC%A3%BC%EC%97%BDv10.pdf">이력서</a> <br>
 
 <hr>
 
