@@ -14,7 +14,7 @@ youtube : <a href="https://youtube.com/@juyub">youtube.com/@juyub</a>
 
 <보유 기술> <br>
 
-<img src="https://github.com/juyub/juyub/assets/126839881/c91a0ad8-f466-4019-9f01-1da06d646fee" />
+<img src="https://github.com/juyub/juyub/assets/126839881/e446e561-4d2d-43cd-b0d7-f0110ff80185" />
 <!--
 <img src="https://github.com/juyub/juyub/assets/126839881/9c0f935e-1a59-4f05-8833-2416c99fbea5" /> 
 -->
