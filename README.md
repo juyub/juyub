@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-졸) 웅지세무대학
+졸업) 웅지세무대학
 
-현) 성남폴리텍대학 인공지능소프트웨어 하이테크과정
+수료) 성남폴리텍대학 인공지능소프트웨어 하이테크과정
 
 Email : jjuyub@gmail.com <br>
 youtube : <a href="https://youtube.com/@juyub">youtube.com/@juyub</a>
